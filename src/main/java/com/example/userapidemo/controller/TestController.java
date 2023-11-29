@@ -8,6 +8,6 @@ public class TestController {
 
     @GetMapping
     public String helloWorld() {
-        return "Welcome to the world of CI/CD!!! test CI";
+        return "Welcome to the world of CI/CD!!! test";
     }
 }
